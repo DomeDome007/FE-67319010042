@@ -1,0 +1,59 @@
+.form-1{
+    position:fixed ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(173, 200, 244);
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+     
+}
+.form-2{
+    position:fixed ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(77, 163, 225);
+    width: 300px;
+    height: 150px;
+        padding: 10px;
+       
+}      
+.form-3{
+    position:fixed ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+            background-color: rgb(25, 79, 179);
+            width: 300px;
+            height: 250px;
+                padding: 10px;
+                display: flex;
+                justify-content: center;
+                justify-self: center;
+                
+               
+} 
+ 
+input{
+        justify-self: center;
+         color: rgb(0, 0, 0);
+         font-size: 20px;
+         border-radius: 8px;
+         border-style: dotted;
+         
+}       
+button{
+font-size: 23px;
+border-radius: 20px;
+padding: 5px;
+}         
+.hide{
+display: none;
+}
+.unhide{
+
+}
